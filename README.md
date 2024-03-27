@@ -2,6 +2,8 @@
 
 A Flutter project for a clima App.
 
-## Getting Started
+# 🌤️
+
+![A flutter clima app.](https://github.com/c-olivares/clima_app/blob/main/images/clima-demo.gif)
 
 
